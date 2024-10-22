@@ -1,0 +1,6477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="climate"/>
+<node id="development"/>
+<node id="data"/>
+<node id="precipitation"/>
+<node id="temperature"/>
+<node id="soil"/>
+<node id="research"/>
+<node id="management"/>
+<node id="water"/>
+<node id="land"/>
+<node id="knowledge"/>
+<node id="analysis"/>
+<node id="model"/>
+<node id="ecosystem"/>
+<node id="agriculture"/>
+<node id="risk"/>
+<node id="variability"/>
+<node id="impact"/>
+<node id="events"/>
+<node id="resources"/>
+<node id="impacts"/>
+<node id="forest"/>
+<node id="dynamics"/>
+<node id="environment"/>
+<node id="systems"/>
+<node id="models"/>
+<node id="assessment"/>
+<node id="reconstruction"/>
+<node id="challenges"/>
+<node id="observations"/>
+<node id="sediments"/>
+<node id="governance"/>
+<node id="flood"/>
+<node id="methods"/>
+<node id="mountains"/>
+<node id="switzerland"/>
+<node id="floods"/>
+<node id="circulation"/>
+<node id="regions"/>
+<node id="vulnerability"/>
+<node id="diversity"/>
+<node id="framework"/>
+<node id="services"/>
+<node id="lake"/>
+<node id="community"/>
+<node id="change"/>
+<node id="weather"/>
+<node id="carbon"/>
+<node id="production"/>
+<node id="processes"/>
+<node id="growth"/>
+<node id="vegetation"/>
+<node id="ecosystems"/>
+<node id="species"/>
+<node id="river"/>
+<node id="landscape"/>
+<node id="stakeholders"/>
+<node id="effects"/>
+<node id="power"/>
+<node id="actors"/>
+<node id="geography"/>
+<node id="region"/>
+<node id="hazard"/>
+<node id="resilience"/>
+<node id="gender"/>
+<node id="lakes"/>
+<node id="social"/>
+<node id="agricultural"/>
+<node id="trends"/>
+<node id="system"/>
+<node id="extremes"/>
+<node id="forests"/>
+<node id="interactions"/>
+<node id="hail"/>
+<node id="strategies"/>
+<node id="records"/>
+<node id="population"/>
+<node id="loess"/>
+<node id="performance"/>
+<node id="hydrological"/>
+<node id="transformation"/>
+<node id="collaboration"/>
+<node id="proxy"/>
+<node id="patterns"/>
+<node id="damage"/>
+<node id="atmospheric"/>
+<node id="factors"/>
+<node id="dataset"/>
+<node id="modeling"/>
+<node id="global"/>
+<node id="history"/>
+<node id="glaciers"/>
+<node id="evaluation"/>
+<node id="hazards"/>
+<node id="snow"/>
+<node id="method"/>
+<node id="earth"/>
+<node id="europe"/>
+<node id="policies"/>
+<node id="concentrations"/>
+<node id="simulation"/>
+<node id="information"/>
+<node id="atmosphere"/>
+<node id="adaptation"/>
+<node id="satellite"/>
+<node id="changes"/>
+<node id="risks"/>
+<node id="rainfall"/>
+<node id="spatial"/>
+<node id="conservation"/>
+<node id="sustainability"/>
+<node id="biodiversity"/>
+<node id="migration"/>
+<node id="livelihoods"/>
+<node id="policy"/>
+<node id="urban"/>
+<node id="planning"/>
+<node id="poverty"/>
+<node id="study"/>
+<node id="food"/>
+<node id="degradation"/>
+<node id="communities"/>
+<node id="approach"/>
+<node id="sustainable"/>
+<node id="technology"/>
+<node id="economy"/>
+<node id="emissions"/>
+<node id="farmers"/>
+<node id="rural"/>
+<node id="innovation"/>
+<node id="practices"/>
+<node id="methodology"/>
+<node id="feminist"/>
+<node id="economic"/>
+<node id="sediment"/>
+<node id="plant"/>
+<node id="distribution"/>
+<node id="project"/>
+<node id="discharge"/>
+<node id="climatechange"/>
+<node id="radar"/>
+<node id="erosion"/>
+<node id="phosphorus"/>
+<node id="technologies"/>
+<node id="soils"/>
+<node id="landuse"/>
+<node id="households"/>
+<node id="deforestation"/>
+<node id="landscapes"/>
+<node id="entwicklung"/>
+<edge source="climate" target="development">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="data">
+  <data key="d0">19</data>
+</edge>
+<edge source="climate" target="precipitation">
+  <data key="d0">11</data>
+</edge>
+<edge source="climate" target="temperature">
+  <data key="d0">21</data>
+</edge>
+<edge source="climate" target="soil">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="research">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="management">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="water">
+  <data key="d0">13</data>
+</edge>
+<edge source="climate" target="land">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="knowledge">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="analysis">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="model">
+  <data key="d0">9</data>
+</edge>
+<edge source="climate" target="ecosystem">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="agriculture">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="risk">
+  <data key="d0">5</data>
+</edge>
+<edge source="climate" target="variability">
+  <data key="d0">21</data>
+</edge>
+<edge source="climate" target="impact">
+  <data key="d0">7</data>
+</edge>
+<edge source="climate" target="events">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="resources">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="impacts">
+  <data key="d0">5</data>
+</edge>
+<edge source="climate" target="forest">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="dynamics">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="environment">
+  <data key="d0">5</data>
+</edge>
+<edge source="climate" target="systems">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="models">
+  <data key="d0">7</data>
+</edge>
+<edge source="climate" target="assessment">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="reconstruction">
+  <data key="d0">6</data>
+</edge>
+<edge source="climate" target="challenges">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="observations">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="sediments">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="governance">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="flood">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="mountains">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="switzerland">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="floods">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="circulation">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="vulnerability">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="diversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="services">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="lake">
+  <data key="d0">7</data>
+</edge>
+<edge source="climate" target="community">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="change">
+  <data key="d0">6</data>
+</edge>
+<edge source="climate" target="weather">
+  <data key="d0">5</data>
+</edge>
+<edge source="climate" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="production">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="processes">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="growth">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="vegetation">
+  <data key="d0">6</data>
+</edge>
+<edge source="climate" target="ecosystems">
+  <data key="d0">5</data>
+</edge>
+<edge source="climate" target="species">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="river">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="stakeholders">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="effects">
+  <data key="d0">5</data>
+</edge>
+<edge source="climate" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="actors">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="region">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="resilience">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="lakes">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="social">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="extremes">
+  <data key="d0">5</data>
+</edge>
+<edge source="climate" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="interactions">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="hail">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="strategies">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="records">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="population">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="loess">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="collaboration">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="proxy">
+  <data key="d0">6</data>
+</edge>
+<edge source="climate" target="patterns">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="damage">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="atmospheric">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="dataset">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="modeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="global">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="history">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="glaciers">
+  <data key="d0">6</data>
+</edge>
+<edge source="climate" target="evaluation">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="snow">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="earth">
+  <data key="d0">7</data>
+</edge>
+<edge source="climate" target="europe">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="policies">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="simulation">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="information">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="atmosphere">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="adaptation">
+  <data key="d0">4</data>
+</edge>
+<edge source="climate" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="risks">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="data">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="temperature">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="research">
+  <data key="d0">15</data>
+</edge>
+<edge source="development" target="management">
+  <data key="d0">7</data>
+</edge>
+<edge source="development" target="water">
+  <data key="d0">5</data>
+</edge>
+<edge source="development" target="land">
+  <data key="d0">5</data>
+</edge>
+<edge source="development" target="knowledge">
+  <data key="d0">7</data>
+</edge>
+<edge source="development" target="analysis">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="model">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="agriculture">
+  <data key="d0">8</data>
+</edge>
+<edge source="development" target="risk">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="conservation">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="impact">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="sustainability">
+  <data key="d0">5</data>
+</edge>
+<edge source="development" target="resources">
+  <data key="d0">8</data>
+</edge>
+<edge source="development" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="assessment">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="challenges">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="migration">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="governance">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="livelihoods">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="policy">
+  <data key="d0">6</data>
+</edge>
+<edge source="development" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="switzerland">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="regions">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="urban">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="vulnerability">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="framework">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="services">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="community">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="growth">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="stakeholders">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="study">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="effects">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="power">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="actors">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="food">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="region">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="degradation">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="gender">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="approach">
+  <data key="d0">4</data>
+</edge>
+<edge source="development" target="sustainable">
+  <data key="d0">6</data>
+</edge>
+<edge source="development" target="trends">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="technology">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="strategies">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="population">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="collaboration">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="economy">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="farmers">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="factors">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="rural">
+  <data key="d0">5</data>
+</edge>
+<edge source="development" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="evaluation">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="policies">
+  <data key="d0">3</data>
+</edge>
+<edge source="development" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="feminist">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="economic">
+  <data key="d0">2</data>
+</edge>
+<edge source="development" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="precipitation">
+  <data key="d0">5</data>
+</edge>
+<edge source="data" target="temperature">
+  <data key="d0">9</data>
+</edge>
+<edge source="data" target="soil">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="research">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="land">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="analysis">
+  <data key="d0">8</data>
+</edge>
+<edge source="data" target="model">
+  <data key="d0">11</data>
+</edge>
+<edge source="data" target="variability">
+  <data key="d0">3</data>
+</edge>
+<edge source="data" target="impact">
+  <data key="d0">4</data>
+</edge>
+<edge source="data" target="events">
+  <data key="d0">3</data>
+</edge>
+<edge source="data" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="dynamics">
+  <data key="d0">4</data>
+</edge>
+<edge source="data" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="models">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="reconstruction">
+  <data key="d0">4</data>
+</edge>
+<edge source="data" target="challenges">
+  <data key="d0">3</data>
+</edge>
+<edge source="data" target="observations">
+  <data key="d0">8</data>
+</edge>
+<edge source="data" target="sediments">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="flood">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="methods">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="floods">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="circulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="vulnerability">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="services">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="lake">
+  <data key="d0">3</data>
+</edge>
+<edge source="data" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="weather">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="production">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="vegetation">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="study">
+  <data key="d0">4</data>
+</edge>
+<edge source="data" target="actors">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="lakes">
+  <data key="d0">3</data>
+</edge>
+<edge source="data" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="trends">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="distribution">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="extremes">
+  <data key="d0">3</data>
+</edge>
+<edge source="data" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="hail">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="records">
+  <data key="d0">5</data>
+</edge>
+<edge source="data" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="hydrological">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="collaboration">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="proxy">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="atmospheric">
+  <data key="d0">3</data>
+</edge>
+<edge source="data" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="snow">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="policies">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="atmosphere">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="radar">
+  <data key="d0">2</data>
+</edge>
+<edge source="data" target="satellite">
+  <data key="d0">6</data>
+</edge>
+<edge source="data" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="data" target="spatial">
+  <data key="d0">3</data>
+</edge>
+<edge source="precipitation" target="temperature">
+  <data key="d0">14</data>
+</edge>
+<edge source="precipitation" target="soil">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="management">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="land">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="analysis">
+  <data key="d0">5</data>
+</edge>
+<edge source="precipitation" target="model">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="agriculture">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="variability">
+  <data key="d0">5</data>
+</edge>
+<edge source="precipitation" target="impact">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="events">
+  <data key="d0">10</data>
+</edge>
+<edge source="precipitation" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="dynamics">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="models">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="reconstruction">
+  <data key="d0">5</data>
+</edge>
+<edge source="precipitation" target="sediments">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="flood">
+  <data key="d0">5</data>
+</edge>
+<edge source="precipitation" target="methods">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="switzerland">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="floods">
+  <data key="d0">11</data>
+</edge>
+<edge source="precipitation" target="circulation">
+  <data key="d0">5</data>
+</edge>
+<edge source="precipitation" target="regions">
+  <data key="d0">3</data>
+</edge>
+<edge source="precipitation" target="lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="weather">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="river">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="trends">
+  <data key="d0">4</data>
+</edge>
+<edge source="precipitation" target="distribution">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="extremes">
+  <data key="d0">9</data>
+</edge>
+<edge source="precipitation" target="hail">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="patterns">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="atmospheric">
+  <data key="d0">5</data>
+</edge>
+<edge source="precipitation" target="dataset">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="method">
+  <data key="d0">5</data>
+</edge>
+<edge source="precipitation" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="discharge">
+  <data key="d0">3</data>
+</edge>
+<edge source="precipitation" target="simulation">
+  <data key="d0">2</data>
+</edge>
+<edge source="precipitation" target="radar">
+  <data key="d0">3</data>
+</edge>
+<edge source="precipitation" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="precipitation" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="land">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="analysis">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="model">
+  <data key="d0">6</data>
+</edge>
+<edge source="temperature" target="ecosystem">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="variability">
+  <data key="d0">9</data>
+</edge>
+<edge source="temperature" target="impact">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="dynamics">
+  <data key="d0">4</data>
+</edge>
+<edge source="temperature" target="models">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="reconstruction">
+  <data key="d0">11</data>
+</edge>
+<edge source="temperature" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="sediments">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="mountains">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="sediment">
+  <data key="d0">4</data>
+</edge>
+<edge source="temperature" target="switzerland">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="circulation">
+  <data key="d0">4</data>
+</edge>
+<edge source="temperature" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="urban">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="lake">
+  <data key="d0">5</data>
+</edge>
+<edge source="temperature" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="change">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="growth">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="vegetation">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="ecosystems">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="species">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="lakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="trends">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="extremes">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="records">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="proxy">
+  <data key="d0">5</data>
+</edge>
+<edge source="temperature" target="dataset">
+  <data key="d0">5</data>
+</edge>
+<edge source="temperature" target="global">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="method">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="earth">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="europe">
+  <data key="d0">5</data>
+</edge>
+<edge source="temperature" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="atmosphere">
+  <data key="d0">2</data>
+</edge>
+<edge source="temperature" target="satellite">
+  <data key="d0">3</data>
+</edge>
+<edge source="temperature" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperature" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="research">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="management">
+  <data key="d0">5</data>
+</edge>
+<edge source="soil" target="water">
+  <data key="d0">8</data>
+</edge>
+<edge source="soil" target="land">
+  <data key="d0">3</data>
+</edge>
+<edge source="soil" target="analysis">
+  <data key="d0">2</data>
+</edge>
+<edge source="soil" target="model">
+  <data key="d0">3</data>
+</edge>
+<edge source="soil" target="ecosystem">
+  <data key="d0">2</data>
+</edge>
+<edge source="soil" target="agriculture">
+  <data key="d0">6</data>
+</edge>
+<edge source="soil" target="conservation">
+  <data key="d0">9</data>
+</edge>
+<edge source="soil" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="forest">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="dynamics">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="models">
+  <data key="d0">2</data>
+</edge>
+<edge source="soil" target="assessment">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="methods">
+  <data key="d0">2</data>
+</edge>
+<edge source="soil" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="switzerland">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="diversity">
+  <data key="d0">3</data>
+</edge>
+<edge source="soil" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="community">
+  <data key="d0">5</data>
+</edge>
+<edge source="soil" target="plant">
+  <data key="d0">7</data>
+</edge>
+<edge source="soil" target="erosion">
+  <data key="d0">10</data>
+</edge>
+<edge source="soil" target="carbon">
+  <data key="d0">5</data>
+</edge>
+<edge source="soil" target="vegetation">
+  <data key="d0">2</data>
+</edge>
+<edge source="soil" target="species">
+  <data key="d0">2</data>
+</edge>
+<edge source="soil" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="degradation">
+  <data key="d0">2</data>
+</edge>
+<edge source="soil" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="distribution">
+  <data key="d0">4</data>
+</edge>
+<edge source="soil" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="loess">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="phosphorus">
+  <data key="d0">5</data>
+</edge>
+<edge source="soil" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="soil" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="management">
+  <data key="d0">3</data>
+</edge>
+<edge source="research" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="land">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="knowledge">
+  <data key="d0">5</data>
+</edge>
+<edge source="research" target="ecosystem">
+  <data key="d0">4</data>
+</edge>
+<edge source="research" target="agriculture">
+  <data key="d0">3</data>
+</edge>
+<edge source="research" target="risk">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="conservation">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="impact">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="sustainability">
+  <data key="d0">6</data>
+</edge>
+<edge source="research" target="resources">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="biodiversity">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="challenges">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="governance">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="livelihoods">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="policy">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="mountains">
+  <data key="d0">3</data>
+</edge>
+<edge source="research" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="vulnerability">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="framework">
+  <data key="d0">3</data>
+</edge>
+<edge source="research" target="services">
+  <data key="d0">4</data>
+</edge>
+<edge source="research" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="actors">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="geography">
+  <data key="d0">4</data>
+</edge>
+<edge source="research" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="gender">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="approach">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="sustainable">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="project">
+  <data key="d0">3</data>
+</edge>
+<edge source="research" target="interactions">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="strategies">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="records">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="collaboration">
+  <data key="d0">7</data>
+</edge>
+<edge source="research" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="evaluation">
+  <data key="d0">4</data>
+</edge>
+<edge source="research" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="practices">
+  <data key="d0">2</data>
+</edge>
+<edge source="research" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="feminist">
+  <data key="d0">6</data>
+</edge>
+<edge source="management" target="water">
+  <data key="d0">9</data>
+</edge>
+<edge source="management" target="land">
+  <data key="d0">6</data>
+</edge>
+<edge source="management" target="knowledge">
+  <data key="d0">8</data>
+</edge>
+<edge source="management" target="analysis">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="model">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="agriculture">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="risk">
+  <data key="d0">6</data>
+</edge>
+<edge source="management" target="conservation">
+  <data key="d0">5</data>
+</edge>
+<edge source="management" target="impact">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="sustainability">
+  <data key="d0">3</data>
+</edge>
+<edge source="management" target="resources">
+  <data key="d0">9</data>
+</edge>
+<edge source="management" target="impacts">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="dynamics">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="biodiversity">
+  <data key="d0">3</data>
+</edge>
+<edge source="management" target="assessment">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="challenges">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="governance">
+  <data key="d0">3</data>
+</edge>
+<edge source="management" target="livelihoods">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="flood">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="policy">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="framework">
+  <data key="d0">3</data>
+</edge>
+<edge source="management" target="services">
+  <data key="d0">3</data>
+</edge>
+<edge source="management" target="community">
+  <data key="d0">3</data>
+</edge>
+<edge source="management" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="carbon">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="vegetation">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="species">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="river">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="stakeholders">
+  <data key="d0">3</data>
+</edge>
+<edge source="management" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="degradation">
+  <data key="d0">4</data>
+</edge>
+<edge source="management" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="resilience">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="sustainable">
+  <data key="d0">5</data>
+</edge>
+<edge source="management" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="forests">
+  <data key="d0">4</data>
+</edge>
+<edge source="management" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="collaboration">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="information">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="methodology">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="technologies">
+  <data key="d0">2</data>
+</edge>
+<edge source="management" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="management" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="land">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="knowledge">
+  <data key="d0">5</data>
+</edge>
+<edge source="water" target="analysis">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="model">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="ecosystem">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="agriculture">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="conservation">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="variability">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="impact">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="resources">
+  <data key="d0">5</data>
+</edge>
+<edge source="water" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="forest">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="challenges">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="governance">
+  <data key="d0">4</data>
+</edge>
+<edge source="water" target="mountains">
+  <data key="d0">6</data>
+</edge>
+<edge source="water" target="sediment">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="diversity">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="services">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="change">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="plant">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="vegetation">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="river">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="stakeholders">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="actors">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="food">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="geography">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="strategies">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="rural">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="modeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="glaciers">
+  <data key="d0">2</data>
+</edge>
+<edge source="water" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="knowledge">
+  <data key="d0">3</data>
+</edge>
+<edge source="land" target="ecosystem">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="agriculture">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="conservation">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="impact">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="resources">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="impacts">
+  <data key="d0">3</data>
+</edge>
+<edge source="land" target="forest">
+  <data key="d0">3</data>
+</edge>
+<edge source="land" target="dynamics">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="systems">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="biodiversity">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="assessment">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="governance">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="livelihoods">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="policy">
+  <data key="d0">5</data>
+</edge>
+<edge source="land" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="switzerland">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="services">
+  <data key="d0">3</data>
+</edge>
+<edge source="land" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="change">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="erosion">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="planning">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="vegetation">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="species">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="stakeholders">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="power">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="actors">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="degradation">
+  <data key="d0">7</data>
+</edge>
+<edge source="land" target="agricultural">
+  <data key="d0">4</data>
+</edge>
+<edge source="land" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="sustainable">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="deforestation">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="interactions">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="history">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="information">
+  <data key="d0">2</data>
+</edge>
+<edge source="land" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="land" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="agriculture">
+  <data key="d0">3</data>
+</edge>
+<edge source="knowledge" target="risk">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="conservation">
+  <data key="d0">5</data>
+</edge>
+<edge source="knowledge" target="impact">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="sustainability">
+  <data key="d0">4</data>
+</edge>
+<edge source="knowledge" target="resources">
+  <data key="d0">3</data>
+</edge>
+<edge source="knowledge" target="forest">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="biodiversity">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="challenges">
+  <data key="d0">4</data>
+</edge>
+<edge source="knowledge" target="migration">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="governance">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="flood">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="mountains">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="production">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="species">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="poverty">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="stakeholders">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="food">
+  <data key="d0">3</data>
+</edge>
+<edge source="knowledge" target="region">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="communities">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="strategies">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="transformation">
+  <data key="d0">3</data>
+</edge>
+<edge source="knowledge" target="collaboration">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="information">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="technologies">
+  <data key="d0">3</data>
+</edge>
+<edge source="knowledge" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="model">
+  <data key="d0">5</data>
+</edge>
+<edge source="analysis" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="risk">
+  <data key="d0">7</data>
+</edge>
+<edge source="analysis" target="variability">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="sustainability">
+  <data key="d0">3</data>
+</edge>
+<edge source="analysis" target="events">
+  <data key="d0">3</data>
+</edge>
+<edge source="analysis" target="resources">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="impacts">
+  <data key="d0">3</data>
+</edge>
+<edge source="analysis" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="assessment">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="reconstruction">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="flood">
+  <data key="d0">4</data>
+</edge>
+<edge source="analysis" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="circulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="vulnerability">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="growth">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="poverty">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="effects">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="resilience">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="gender">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="lakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="approach">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="trends">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="extremes">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="hail">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="records">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="population">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="factors">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="radar">
+  <data key="d0">2</data>
+</edge>
+<edge source="analysis" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="analysis" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="agriculture">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="risk">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="variability">
+  <data key="d0">3</data>
+</edge>
+<edge source="model" target="impact">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="events">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="resources">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="forest">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="dynamics">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="assessment">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="reconstruction">
+  <data key="d0">3</data>
+</edge>
+<edge source="model" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="flood">
+  <data key="d0">6</data>
+</edge>
+<edge source="model" target="sediment">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="switzerland">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="circulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="vulnerability">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="species">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="river">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="hazard">
+  <data key="d0">3</data>
+</edge>
+<edge source="model" target="lakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="hail">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="records">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="performance">
+  <data key="d0">3</data>
+</edge>
+<edge source="model" target="hydrological">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="proxy">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="evaluation">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="discharge">
+  <data key="d0">3</data>
+</edge>
+<edge source="model" target="simulation">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="risks">
+  <data key="d0">2</data>
+</edge>
+<edge source="model" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="model" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="agriculture">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="variability">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="impact">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="resources">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="impacts">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="forest">
+  <data key="d0">8</data>
+</edge>
+<edge source="ecosystem" target="dynamics">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="environment">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="models">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="biodiversity">
+  <data key="d0">9</data>
+</edge>
+<edge source="ecosystem" target="assessment">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="mountains">
+  <data key="d0">4</data>
+</edge>
+<edge source="ecosystem" target="diversity">
+  <data key="d0">4</data>
+</edge>
+<edge source="ecosystem" target="services">
+  <data key="d0">12</data>
+</edge>
+<edge source="ecosystem" target="community">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="plant">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="stakeholders">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="effects">
+  <data key="d0">3</data>
+</edge>
+<edge source="ecosystem" target="resilience">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="landuse">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystem" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystem" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="variability">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="impact">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="sustainability">
+  <data key="d0">5</data>
+</edge>
+<edge source="agriculture" target="impacts">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="forest">
+  <data key="d0">3</data>
+</edge>
+<edge source="agriculture" target="systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="biodiversity">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="assessment">
+  <data key="d0">3</data>
+</edge>
+<edge source="agriculture" target="livelihoods">
+  <data key="d0">3</data>
+</edge>
+<edge source="agriculture" target="policy">
+  <data key="d0">3</data>
+</edge>
+<edge source="agriculture" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="urban">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="vulnerability">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="framework">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="change">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="growth">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="landscape">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="poverty">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="actors">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="food">
+  <data key="d0">3</data>
+</edge>
+<edge source="agriculture" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="resilience">
+  <data key="d0">4</data>
+</edge>
+<edge source="agriculture" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="deforestation">
+  <data key="d0">3</data>
+</edge>
+<edge source="agriculture" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="hail">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="population">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="collaboration">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="farmers">
+  <data key="d0">3</data>
+</edge>
+<edge source="agriculture" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="europe">
+  <data key="d0">2</data>
+</edge>
+<edge source="agriculture" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="agriculture" target="landscapes">
+  <data key="d0">3</data>
+</edge>
+<edge source="risk" target="variability">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="events">
+  <data key="d0">3</data>
+</edge>
+<edge source="risk" target="resources">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="impacts">
+  <data key="d0">3</data>
+</edge>
+<edge source="risk" target="dynamics">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="assessment">
+  <data key="d0">5</data>
+</edge>
+<edge source="risk" target="reconstruction">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="governance">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="flood">
+  <data key="d0">6</data>
+</edge>
+<edge source="risk" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="vulnerability">
+  <data key="d0">6</data>
+</edge>
+<edge source="risk" target="framework">
+  <data key="d0">2</data>
+</edge>
+<edge source="risk" target="community">
+  <data key="d0">2</data>
+</edge>
+<edge source="risk" target="growth">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="vegetation">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="hazard">
+  <data key="d0">2</data>
+</edge>
+<edge source="risk" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="households">
+  <data key="d0">2</data>
+</edge>
+<edge source="risk" target="damage">
+  <data key="d0">3</data>
+</edge>
+<edge source="risk" target="factors">
+  <data key="d0">2</data>
+</edge>
+<edge source="risk" target="modeling">
+  <data key="d0">3</data>
+</edge>
+<edge source="risk" target="hazards">
+  <data key="d0">2</data>
+</edge>
+<edge source="risk" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="risk" target="adaptation">
+  <data key="d0">2</data>
+</edge>
+<edge source="risk" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="impact">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="events">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="dynamics">
+  <data key="d0">3</data>
+</edge>
+<edge source="variability" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="assessment">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="reconstruction">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="switzerland">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="circulation">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="urban">
+  <data key="d0">3</data>
+</edge>
+<edge source="variability" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="weather">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="production">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="trends">
+  <data key="d0">4</data>
+</edge>
+<edge source="variability" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="extremes">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="hail">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="proxy">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="damage">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="snow">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="variability" target="atmosphere">
+  <data key="d0">2</data>
+</edge>
+<edge source="variability" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="events">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="environment">
+  <data key="d0">2</data>
+</edge>
+<edge source="impact" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="challenges">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="sediments">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="flood">
+  <data key="d0">2</data>
+</edge>
+<edge source="impact" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="vulnerability">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="weather">
+  <data key="d0">3</data>
+</edge>
+<edge source="impact" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="study">
+  <data key="d0">3</data>
+</edge>
+<edge source="impact" target="actors">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="lakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="extremes">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="technology">
+  <data key="d0">2</data>
+</edge>
+<edge source="impact" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="performance">
+  <data key="d0">2</data>
+</edge>
+<edge source="impact" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="evaluation">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="economic">
+  <data key="d0">2</data>
+</edge>
+<edge source="events" target="impacts">
+  <data key="d0">4</data>
+</edge>
+<edge source="events" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="models">
+  <data key="d0">3</data>
+</edge>
+<edge source="events" target="flood">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="floods">
+  <data key="d0">2</data>
+</edge>
+<edge source="events" target="circulation">
+  <data key="d0">5</data>
+</edge>
+<edge source="events" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="weather">
+  <data key="d0">3</data>
+</edge>
+<edge source="events" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="extremes">
+  <data key="d0">6</data>
+</edge>
+<edge source="events" target="patterns">
+  <data key="d0">2</data>
+</edge>
+<edge source="events" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="dataset">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="modeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="events" target="hazards">
+  <data key="d0">4</data>
+</edge>
+<edge source="events" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="atmosphere">
+  <data key="d0">2</data>
+</edge>
+<edge source="events" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="events" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="impacts">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="environment">
+  <data key="d0">3</data>
+</edge>
+<edge source="resources" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="challenges">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="governance">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="livelihoods">
+  <data key="d0">3</data>
+</edge>
+<edge source="resources" target="flood">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="framework">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="services">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="production">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="poverty">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="power">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="food">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="degradation">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="sustainable">
+  <data key="d0">4</data>
+</edge>
+<edge source="resources" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="forests">
+  <data key="d0">3</data>
+</edge>
+<edge source="resources" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="households">
+  <data key="d0">2</data>
+</edge>
+<edge source="resources" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="resources" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="forest">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="dynamics">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="impacts" target="models">
+  <data key="d0">3</data>
+</edge>
+<edge source="impacts" target="assessment">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="observations">
+  <data key="d0">2</data>
+</edge>
+<edge source="impacts" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="floods">
+  <data key="d0">2</data>
+</edge>
+<edge source="impacts" target="services">
+  <data key="d0">2</data>
+</edge>
+<edge source="impacts" target="weather">
+  <data key="d0">3</data>
+</edge>
+<edge source="impacts" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="production">
+  <data key="d0">3</data>
+</edge>
+<edge source="impacts" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="effects">
+  <data key="d0">2</data>
+</edge>
+<edge source="impacts" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="distribution">
+  <data key="d0">2</data>
+</edge>
+<edge source="impacts" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="interactions">
+  <data key="d0">3</data>
+</edge>
+<edge source="impacts" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="impacts" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="conservation">
+  <data key="d0">3</data>
+</edge>
+<edge source="forest" target="dynamics">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="challenges">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="livelihoods">
+  <data key="d0">2</data>
+</edge>
+<edge source="forest" target="policy">
+  <data key="d0">2</data>
+</edge>
+<edge source="forest" target="services">
+  <data key="d0">2</data>
+</edge>
+<edge source="forest" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="growth">
+  <data key="d0">3</data>
+</edge>
+<edge source="forest" target="species">
+  <data key="d0">2</data>
+</edge>
+<edge source="forest" target="landscape">
+  <data key="d0">2</data>
+</edge>
+<edge source="forest" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="stakeholders">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="actors">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="deforestation">
+  <data key="d0">2</data>
+</edge>
+<edge source="forest" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="forest" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="challenges">
+  <data key="d0">2</data>
+</edge>
+<edge source="dynamics" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="circulation">
+  <data key="d0">2</data>
+</edge>
+<edge source="dynamics" target="regions">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="diversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="production">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="growth">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="landscape">
+  <data key="d0">2</data>
+</edge>
+<edge source="dynamics" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="lakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamics" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="conservation">
+  <data key="d0">2</data>
+</edge>
+<edge source="environment" target="sustainability">
+  <data key="d0">3</data>
+</edge>
+<edge source="environment" target="models">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="assessment">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="vulnerability">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="services">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="production">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="growth">
+  <data key="d0">2</data>
+</edge>
+<edge source="environment" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="poverty">
+  <data key="d0">2</data>
+</edge>
+<edge source="environment" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="collaboration">
+  <data key="d0">2</data>
+</edge>
+<edge source="environment" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="sustainability">
+  <data key="d0">5</data>
+</edge>
+<edge source="systems" target="assessment">
+  <data key="d0">3</data>
+</edge>
+<edge source="systems" target="challenges">
+  <data key="d0">2</data>
+</edge>
+<edge source="systems" target="observations">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="governance">
+  <data key="d0">2</data>
+</edge>
+<edge source="systems" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="services">
+  <data key="d0">2</data>
+</edge>
+<edge source="systems" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="food">
+  <data key="d0">5</data>
+</edge>
+<edge source="systems" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="resilience">
+  <data key="d0">3</data>
+</edge>
+<edge source="systems" target="social">
+  <data key="d0">2</data>
+</edge>
+<edge source="systems" target="agricultural">
+  <data key="d0">2</data>
+</edge>
+<edge source="systems" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="interactions">
+  <data key="d0">2</data>
+</edge>
+<edge source="systems" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="information">
+  <data key="d0">2</data>
+</edge>
+<edge source="systems" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="systems" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="assessment">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="sediments">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="flood">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="sediment">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="switzerland">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="floods">
+  <data key="d0">3</data>
+</edge>
+<edge source="models" target="circulation">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="diversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="erosion">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="production">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="processes">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="extremes">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="hydrological">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="patterns">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="atmospheric">
+  <data key="d0">2</data>
+</edge>
+<edge source="models" target="evaluation">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="models" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="conservation">
+  <data key="d0">2</data>
+</edge>
+<edge source="assessment" target="sustainability">
+  <data key="d0">4</data>
+</edge>
+<edge source="assessment" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="governance">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="flood">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="methods">
+  <data key="d0">2</data>
+</edge>
+<edge source="assessment" target="vulnerability">
+  <data key="d0">4</data>
+</edge>
+<edge source="assessment" target="framework">
+  <data key="d0">2</data>
+</edge>
+<edge source="assessment" target="services">
+  <data key="d0">2</data>
+</edge>
+<edge source="assessment" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="degradation">
+  <data key="d0">3</data>
+</edge>
+<edge source="assessment" target="hazard">
+  <data key="d0">2</data>
+</edge>
+<edge source="assessment" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="proxy">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="hazards">
+  <data key="d0">3</data>
+</edge>
+<edge source="assessment" target="methodology">
+  <data key="d0">2</data>
+</edge>
+<edge source="assessment" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="assessment" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="observations">
+  <data key="d0">2</data>
+</edge>
+<edge source="reconstruction" target="sediments">
+  <data key="d0">4</data>
+</edge>
+<edge source="reconstruction" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="switzerland">
+  <data key="d0">3</data>
+</edge>
+<edge source="reconstruction" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="circulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="weather">
+  <data key="d0">2</data>
+</edge>
+<edge source="reconstruction" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="records">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="proxy">
+  <data key="d0">4</data>
+</edge>
+<edge source="reconstruction" target="dataset">
+  <data key="d0">2</data>
+</edge>
+<edge source="reconstruction" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="reconstruction" target="information">
+  <data key="d0">3</data>
+</edge>
+<edge source="reconstruction" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="sustainability">
+  <data key="d0">4</data>
+</edge>
+<edge source="challenges" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="governance">
+  <data key="d0">3</data>
+</edge>
+<edge source="challenges" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="policy">
+  <data key="d0">2</data>
+</edge>
+<edge source="challenges" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="regions">
+  <data key="d0">4</data>
+</edge>
+<edge source="challenges" target="diversity">
+  <data key="d0">2</data>
+</edge>
+<edge source="challenges" target="framework">
+  <data key="d0">2</data>
+</edge>
+<edge source="challenges" target="services">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="actors">
+  <data key="d0">4</data>
+</edge>
+<edge source="challenges" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="system">
+  <data key="d0">2</data>
+</edge>
+<edge source="challenges" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="strategies">
+  <data key="d0">2</data>
+</edge>
+<edge source="challenges" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="challenges" target="evaluation">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenges" target="policies">
+  <data key="d0">2</data>
+</edge>
+<edge source="challenges" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="sediments">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="mountains">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="switzerland">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="circulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="weather">
+  <data key="d0">2</data>
+</edge>
+<edge source="observations" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="trends">
+  <data key="d0">2</data>
+</edge>
+<edge source="observations" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="extremes">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="dataset">
+  <data key="d0">2</data>
+</edge>
+<edge source="observations" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="observations" target="atmosphere">
+  <data key="d0">3</data>
+</edge>
+<edge source="sediments" target="lake">
+  <data key="d0">4</data>
+</edge>
+<edge source="sediments" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="lakes">
+  <data key="d0">5</data>
+</edge>
+<edge source="sediments" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="distribution">
+  <data key="d0">2</data>
+</edge>
+<edge source="sediments" target="loess">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="proxy">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediments" target="phosphorus">
+  <data key="d0">2</data>
+</edge>
+<edge source="sediments" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="flood">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="urban">
+  <data key="d0">3</data>
+</edge>
+<edge source="governance" target="diversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="stakeholders">
+  <data key="d0">3</data>
+</edge>
+<edge source="governance" target="actors">
+  <data key="d0">4</data>
+</edge>
+<edge source="governance" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="governance" target="strategies">
+  <data key="d0">3</data>
+</edge>
+<edge source="governance" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="methods">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="vulnerability">
+  <data key="d0">3</data>
+</edge>
+<edge source="flood" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="river">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="stakeholders">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="damage">
+  <data key="d0">3</data>
+</edge>
+<edge source="flood" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="flood" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="floods">
+  <data key="d0">3</data>
+</edge>
+<edge source="methods" target="vulnerability">
+  <data key="d0">4</data>
+</edge>
+<edge source="methods" target="framework">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="hazard">
+  <data key="d0">2</data>
+</edge>
+<edge source="methods" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="records">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="methods" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="floods">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="vulnerability">
+  <data key="d0">2</data>
+</edge>
+<edge source="mountains" target="services">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="ecosystems">
+  <data key="d0">2</data>
+</edge>
+<edge source="mountains" target="river">
+  <data key="d0">2</data>
+</edge>
+<edge source="mountains" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="hazard">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="population">
+  <data key="d0">2</data>
+</edge>
+<edge source="mountains" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="dataset">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="history">
+  <data key="d0">2</data>
+</edge>
+<edge source="mountains" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="mountains" target="discharge">
+  <data key="d0">2</data>
+</edge>
+<edge source="mountains" target="climatechange">
+  <data key="d0">2</data>
+</edge>
+<edge source="mountains" target="adaptation">
+  <data key="d0">2</data>
+</edge>
+<edge source="switzerland" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="diversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="weather">
+  <data key="d0">2</data>
+</edge>
+<edge source="switzerland" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="hail">
+  <data key="d0">2</data>
+</edge>
+<edge source="switzerland" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="dataset">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="information">
+  <data key="d0">2</data>
+</edge>
+<edge source="switzerland" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="feminist">
+  <data key="d0">1</data>
+</edge>
+<edge source="switzerland" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="floods" target="regions">
+  <data key="d0">2</data>
+</edge>
+<edge source="floods" target="processes">
+  <data key="d0">2</data>
+</edge>
+<edge source="floods" target="river">
+  <data key="d0">2</data>
+</edge>
+<edge source="floods" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="floods" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="floods" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="floods" target="method">
+  <data key="d0">2</data>
+</edge>
+<edge source="floods" target="simulation">
+  <data key="d0">2</data>
+</edge>
+<edge source="floods" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="floods" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="extremes">
+  <data key="d0">2</data>
+</edge>
+<edge source="circulation" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="atmospheric">
+  <data key="d0">3</data>
+</edge>
+<edge source="circulation" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulation" target="atmosphere">
+  <data key="d0">2</data>
+</edge>
+<edge source="circulation" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="services">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="growth">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="actors">
+  <data key="d0">2</data>
+</edge>
+<edge source="regions" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="strategies">
+  <data key="d0">2</data>
+</edge>
+<edge source="regions" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="regions" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="policies">
+  <data key="d0">1</data>
+</edge>
+<edge source="regions" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="migration">
+  <data key="d0">2</data>
+</edge>
+<edge source="vulnerability" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="framework">
+  <data key="d0">3</data>
+</edge>
+<edge source="vulnerability" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="hazard">
+  <data key="d0">4</data>
+</edge>
+<edge source="vulnerability" target="resilience">
+  <data key="d0">2</data>
+</edge>
+<edge source="vulnerability" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="hazards">
+  <data key="d0">3</data>
+</edge>
+<edge source="vulnerability" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="vulnerability" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="diversity" target="biodiversity">
+  <data key="d0">4</data>
+</edge>
+<edge source="diversity" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="community">
+  <data key="d0">2</data>
+</edge>
+<edge source="diversity" target="plant">
+  <data key="d0">5</data>
+</edge>
+<edge source="diversity" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="species">
+  <data key="d0">2</data>
+</edge>
+<edge source="diversity" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="diversity" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="framework" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="carbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="resilience">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="approach">
+  <data key="d0">2</data>
+</edge>
+<edge source="framework" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="system">
+  <data key="d0">2</data>
+</edge>
+<edge source="framework" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="factors">
+  <data key="d0">2</data>
+</edge>
+<edge source="framework" target="evaluation">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="framework" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="services" target="biodiversity">
+  <data key="d0">4</data>
+</edge>
+<edge source="services" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="collaboration">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="landuse">
+  <data key="d0">2</data>
+</edge>
+<edge source="services" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="services" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="sediment">
+  <data key="d0">5</data>
+</edge>
+<edge source="lake" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="vegetation">
+  <data key="d0">2</data>
+</edge>
+<edge source="lake" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="species">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="population">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="lake" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="plant">
+  <data key="d0">2</data>
+</edge>
+<edge source="community" target="growth">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="resilience">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="strategies">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="community" target="adaptation">
+  <data key="d0">2</data>
+</edge>
+<edge source="change" target="production">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="vegetation">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="agricultural">
+  <data key="d0">2</data>
+</edge>
+<edge source="change" target="communities">
+  <data key="d0">2</data>
+</edge>
+<edge source="change" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="proxy">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="processes">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="extremes">
+  <data key="d0">2</data>
+</edge>
+<edge source="weather" target="hail">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="atmospheric">
+  <data key="d0">3</data>
+</edge>
+<edge source="weather" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="information">
+  <data key="d0">2</data>
+</edge>
+<edge source="weather" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="forests">
+  <data key="d0">2</data>
+</edge>
+<edge source="carbon" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbon" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="households">
+  <data key="d0">2</data>
+</edge>
+<edge source="production" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="ecosystems">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="processes" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="growth" target="plant">
+  <data key="d0">2</data>
+</edge>
+<edge source="growth" target="species">
+  <data key="d0">4</data>
+</edge>
+<edge source="growth" target="poverty">
+  <data key="d0">2</data>
+</edge>
+<edge source="growth" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="growth" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="growth" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="growth" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="growth" target="economy">
+  <data key="d0">2</data>
+</edge>
+<edge source="growth" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegetation" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegetation" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegetation" target="ecosystems">
+  <data key="d0">3</data>
+</edge>
+<edge source="vegetation" target="landscape">
+  <data key="d0">2</data>
+</edge>
+<edge source="vegetation" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegetation" target="forests">
+  <data key="d0">2</data>
+</edge>
+<edge source="vegetation" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegetation" target="history">
+  <data key="d0">2</data>
+</edge>
+<edge source="vegetation" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegetation" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="species">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="actors">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="lakes">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecosystems" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosystems" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="effects">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="records">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="river" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="river" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="river" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="river" target="hydrological">
+  <data key="d0">1</data>
+</edge>
+<edge source="river" target="discharge">
+  <data key="d0">4</data>
+</edge>
+<edge source="landscape" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="biodiversity">
+  <data key="d0">3</data>
+</edge>
+<edge source="landscape" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="sediment">
+  <data key="d0">2</data>
+</edge>
+<edge source="landscape" target="stakeholders">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="deforestation">
+  <data key="d0">2</data>
+</edge>
+<edge source="landscape" target="loess">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="conservation">
+  <data key="d0">3</data>
+</edge>
+<edge source="stakeholders" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="effects">
+  <data key="d0">2</data>
+</edge>
+<edge source="stakeholders" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="methodology">
+  <data key="d0">2</data>
+</edge>
+<edge source="stakeholders" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="stakeholders" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="lakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="policies">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="effects" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="power" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="policy">
+  <data key="d0">2</data>
+</edge>
+<edge source="power" target="urban">
+  <data key="d0">2</data>
+</edge>
+<edge source="power" target="planning">
+  <data key="d0">2</data>
+</edge>
+<edge source="power" target="geography">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="gender">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="feminist">
+  <data key="d0">3</data>
+</edge>
+<edge source="actors" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="social">
+  <data key="d0">2</data>
+</edge>
+<edge source="actors" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="system">
+  <data key="d0">2</data>
+</edge>
+<edge source="actors" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="strategies">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="transformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="actors" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="actors" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="geography" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="geography" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="geography" target="collaboration">
+  <data key="d0">1</data>
+</edge>
+<edge source="geography" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="geography" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="geography" target="feminist">
+  <data key="d0">3</data>
+</edge>
+<edge source="region" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="trends">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="forests">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="damage">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="hazards">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="hazard" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="hazard" target="damage">
+  <data key="d0">3</data>
+</edge>
+<edge source="hazard" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="social">
+  <data key="d0">2</data>
+</edge>
+<edge source="resilience" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="interactions">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="strategies">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="households">
+  <data key="d0">2</data>
+</edge>
+<edge source="resilience" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="factors">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilience" target="practices">
+  <data key="d0">2</data>
+</edge>
+<edge source="gender" target="migration">
+  <data key="d0">2</data>
+</edge>
+<edge source="gender" target="agricultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="gender" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="gender" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="gender" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="gender" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="gender" target="policies">
+  <data key="d0">1</data>
+</edge>
+<edge source="gender" target="feminist">
+  <data key="d0">2</data>
+</edge>
+<edge source="lakes" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="records">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="concentrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="migration">
+  <data key="d0">2</data>
+</edge>
+<edge source="social" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="social" target="economic">
+  <data key="d0">2</data>
+</edge>
+<edge source="agricultural" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="agricultural" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="agricultural" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="agricultural" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="agricultural" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="agricultural" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="agricultural" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="agricultural" target="feminist">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="trends" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="system" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="approach">
+  <data key="d0">2</data>
+</edge>
+<edge source="system" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="proxy">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="dataset">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="evaluation">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="earth">
+  <data key="d0">2</data>
+</edge>
+<edge source="extremes" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="extremes" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="extremes" target="atmospheric">
+  <data key="d0">2</data>
+</edge>
+<edge source="extremes" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="forests" target="biodiversity">
+  <data key="d0">3</data>
+</edge>
+<edge source="forests" target="livelihoods">
+  <data key="d0">3</data>
+</edge>
+<edge source="forests" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="forests" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="forests" target="deforestation">
+  <data key="d0">3</data>
+</edge>
+<edge source="forests" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="forests" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="forests" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="interactions" target="sustainability">
+  <data key="d0">3</data>
+</edge>
+<edge source="interactions" target="strategies">
+  <data key="d0">2</data>
+</edge>
+<edge source="interactions" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="interactions" target="patterns">
+  <data key="d0">1</data>
+</edge>
+<edge source="interactions" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="interactions" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="hail" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="hail" target="damage">
+  <data key="d0">4</data>
+</edge>
+<edge source="hail" target="atmospheric">
+  <data key="d0">1</data>
+</edge>
+<edge source="hail" target="radar">
+  <data key="d0">6</data>
+</edge>
+<edge source="hail" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="hail" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="strategies" target="conservation">
+  <data key="d0">2</data>
+</edge>
+<edge source="strategies" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="strategies" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="strategies" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="strategies" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="records" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="records" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="records" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="records" target="proxy">
+  <data key="d0">2</data>
+</edge>
+<edge source="records" target="europe">
+  <data key="d0">2</data>
+</edge>
+<edge source="records" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="population" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="population" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="population" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="population" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="population" target="discharge">
+  <data key="d0">2</data>
+</edge>
+<edge source="loess" target="sediment">
+  <data key="d0">3</data>
+</edge>
+<edge source="loess" target="erosion">
+  <data key="d0">2</data>
+</edge>
+<edge source="loess" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="loess" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="performance" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="performance" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="performance" target="evaluation">
+  <data key="d0">2</data>
+</edge>
+<edge source="performance" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="performance" target="economic">
+  <data key="d0">2</data>
+</edge>
+<edge source="hydrological" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="hydrological" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="hydrological" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="hydrological" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="hydrological" target="discharge">
+  <data key="d0">2</data>
+</edge>
+<edge source="hydrological" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="collaboration">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="transformation" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="collaboration" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="collaboration" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="collaboration" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="collaboration" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="collaboration" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="collaboration" target="feminist">
+  <data key="d0">1</data>
+</edge>
+<edge source="proxy" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="proxy" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="proxy" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="proxy" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="proxy" target="earth">
+  <data key="d0">2</data>
+</edge>
+<edge source="patterns" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="patterns" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="patterns" target="approach">
+  <data key="d0">2</data>
+</edge>
+<edge source="patterns" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="patterns" target="dataset">
+  <data key="d0">1</data>
+</edge>
+<edge source="patterns" target="adaptation">
+  <data key="d0">1</data>
+</edge>
+<edge source="damage" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="damage" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="factors" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="factors" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="factors" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="factors" target="modeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="factors" target="policies">
+  <data key="d0">1</data>
+</edge>
+<edge source="factors" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="dataset" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="dataset" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="dataset" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="modeling" target="glaciers">
+  <data key="d0">1</data>
+</edge>
+<edge source="modeling" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="modeling" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="modeling" target="radar">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="global" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="entwicklung">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="history">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="changes">
+  <data key="d0">1</data>
+</edge>
+<edge source="history" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="history" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="history" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="history" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="glaciers" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="glaciers" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="glaciers" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="evaluation" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="evaluation" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="evaluation" target="approach">
+  <data key="d0">3</data>
+</edge>
+<edge source="evaluation" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="evaluation" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="evaluation" target="simulation">
+  <data key="d0">1</data>
+</edge>
+<edge source="evaluation" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="hazards" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="hazards" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="hazards" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="snow" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="snow" target="satellite">
+  <data key="d0">2</data>
+</edge>
+<edge source="method" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="method" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="method" target="radar">
+  <data key="d0">1</data>
+</edge>
+<edge source="earth" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="earth" target="satellite">
+  <data key="d0">1</data>
+</edge>
+<edge source="europe" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="policies" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="policies" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="policies" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="policies" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="policies" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="policies" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="concentrations" target="urban">
+  <data key="d0">1</data>
+</edge>
+<edge source="concentrations" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="concentrations" target="soils">
+  <data key="d0">2</data>
+</edge>
+<edge source="simulation" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="simulation" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="simulation" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="information" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="information" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="information" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="adaptation" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="adaptation" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="adaptation" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="adaptation" target="rainfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="satellite" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="satellite" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="satellite" target="spatial">
+  <data key="d0">1</data>
+</edge>
+<edge source="changes" target="biodiversity">
+  <data key="d0">1</data>
+</edge>
+<edge source="changes" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="changes" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="changes" target="risks">
+  <data key="d0">1</data>
+</edge>
+<edge source="risks" target="migration">
+  <data key="d0">1</data>
+</edge>
+<edge source="risks" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="risks" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="sediment">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="discharge">
+  <data key="d0">1</data>
+</edge>
+<edge source="rainfall" target="radar">
+  <data key="d0">1</data>
+</edge>
+<edge source="spatial" target="conservation">
+  <data key="d0">1</data>
+</edge>
+<edge source="spatial" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="spatial" target="planning">
+  <data key="d0">1</data>
+</edge>
+<edge source="spatial" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="spatial" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="conservation" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="conservation" target="biodiversity">
+  <data key="d0">4</data>
+</edge>
+<edge source="conservation" target="livelihoods">
+  <data key="d0">2</data>
+</edge>
+<edge source="conservation" target="sediment">
+  <data key="d0">2</data>
+</edge>
+<edge source="conservation" target="erosion">
+  <data key="d0">4</data>
+</edge>
+<edge source="conservation" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="conservation" target="degradation">
+  <data key="d0">2</data>
+</edge>
+<edge source="conservation" target="communities">
+  <data key="d0">3</data>
+</edge>
+<edge source="conservation" target="deforestation">
+  <data key="d0">2</data>
+</edge>
+<edge source="conservation" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="conservation" target="landuse">
+  <data key="d0">3</data>
+</edge>
+<edge source="conservation" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="conservation" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="conservation" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="conservation" target="methodology">
+  <data key="d0">3</data>
+</edge>
+<edge source="conservation" target="technologies">
+  <data key="d0">3</data>
+</edge>
+<edge source="conservation" target="economic">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="biodiversity">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="urban">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="planning">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="approach">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainability" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="biodiversity" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="biodiversity" target="plant">
+  <data key="d0">3</data>
+</edge>
+<edge source="biodiversity" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="biodiversity" target="communities">
+  <data key="d0">2</data>
+</edge>
+<edge source="biodiversity" target="deforestation">
+  <data key="d0">4</data>
+</edge>
+<edge source="biodiversity" target="landuse">
+  <data key="d0">2</data>
+</edge>
+<edge source="biodiversity" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="biodiversity" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="migration" target="livelihoods">
+  <data key="d0">1</data>
+</edge>
+<edge source="migration" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="migration" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="migration" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="migration" target="rural">
+  <data key="d0">2</data>
+</edge>
+<edge source="migration" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="communities">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="deforestation">
+  <data key="d0">2</data>
+</edge>
+<edge source="livelihoods" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="landuse">
+  <data key="d0">2</data>
+</edge>
+<edge source="livelihoods" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelihoods" target="methodology">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="planning">
+  <data key="d0">2</data>
+</edge>
+<edge source="policy" target="degradation">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="urban" target="planning">
+  <data key="d0">3</data>
+</edge>
+<edge source="urban" target="food">
+  <data key="d0">2</data>
+</edge>
+<edge source="urban" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="urban" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="urban" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="planning" target="poverty">
+  <data key="d0">1</data>
+</edge>
+<edge source="planning" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="planning" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="planning" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="poverty" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="poverty" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="poverty" target="households">
+  <data key="d0">1</data>
+</edge>
+<edge source="poverty" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="poverty" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="poverty" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="study" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="study" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="study" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="food" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="food" target="farmers">
+  <data key="d0">1</data>
+</edge>
+<edge source="food" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="food" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="degradation" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="degradation" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="degradation" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="communities" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="communities" target="emissions">
+  <data key="d0">1</data>
+</edge>
+<edge source="communities" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="communities" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="approach" target="sustainable">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainable" target="technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="economy">
+  <data key="d0">2</data>
+</edge>
+<edge source="economy" target="plant">
+  <data key="d0">1</data>
+</edge>
+<edge source="economy" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="economy" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="emissions" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="emissions" target="deforestation">
+  <data key="d0">2</data>
+</edge>
+<edge source="farmers" target="practices">
+  <data key="d0">1</data>
+</edge>
+<edge source="rural" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="entwicklung">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediment" target="erosion">
+  <data key="d0">2</data>
+</edge>
+<edge source="sediment" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="sediment" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="plant" target="distribution">
+  <data key="d0">1</data>
+</edge>
+<edge source="plant" target="project">
+  <data key="d0">1</data>
+</edge>
+<edge source="plant" target="climatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="plant" target="phosphorus">
+  <data key="d0">1</data>
+</edge>
+<edge source="distribution" target="erosion">
+  <data key="d0">1</data>
+</edge>
+<edge source="distribution" target="radar">
+  <data key="d0">2</data>
+</edge>
+<edge source="project" target="landuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="erosion" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="phosphorus" target="soils">
+  <data key="d0">1</data>
+</edge>
+<edge source="landuse" target="deforestation">
+  <data key="d0">2</data>
+</edge>
+<edge source="landuse" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="households" target="deforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="deforestation" target="landscapes">
+  <data key="d0">2</data>
+</edge>
+</graph></graphml>
